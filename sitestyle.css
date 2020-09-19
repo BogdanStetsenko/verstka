@@ -1,0 +1,213 @@
+h1{
+    color: red ;
+    font-size: 50px;
+    font-family: Impact ;
+}
+header{
+	background: url(img/first-bg.jpg) no-repeat center top/cover;
+	height: 702px;
+	height: 100vh;
+}
+body{
+	padding: 0;
+	margin: 0;
+font-family: Arial , sans-serif;
+color:rgb(34,34,34);
+
+}
+.container{
+	width: 930px;
+	margin:0  auto;
+	
+	
+}
+.logo{
+	margin-top: 41px;
+	float:left;
+}
+nav{
+	float: right;
+	margin-top: 50px;
+
+}
+.menu{
+	padding: 0px;
+	margin: 0px;
+	display:block;
+}
+.menu li{
+float:left;
+display: block;
+margin-right: 41px;
+font-size:14px;
+}
+.menu li a{
+	color:white;
+	 text-decoration: none;
+	 text-transform:uppercase;
+}
+.title1{
+	font-size: 40px;
+	font-family: Arial;
+	color: white;
+	text-align: center;
+	margin-top:280px;
+
+}
+h1{font-size: 75px;
+	font-family: Arial;
+	color: white;
+text-align: center;
+margin:15px;
+
+
+}
+.fix:after{
+	content:'';
+display: table;
+width: 100%;
+clear:both;
+}
+.button{
+	background-color: rgba(254,209,54,1);
+color:rgba(75,71,67,1);
+text-decoration: none;
+border-radius: :3px;
+width:240px;
+
+display: block;
+padding: 20px  0;
+margin:0 auto;
+text-align: center;
+text-transform: uppercase;
+font-weight: bold;
+font-size: 18px;
+margin-top: 50px;
+margin-bottom: 160px;
+}
+.title2{
+	margin-top: 120px;
+
+
+}
+.title2 h2{
+	font-size: 40px;
+	font-weight: bold;
+text-align: center;
+margin:0;
+margin-bottom: 27px;
+}
+.title2 p{ 
+	font-size: 16px;
+
+text-align: center;
+color:rgb(119,119,119);
+margin:0;
+}
+
+
+	
+.servis{margin-top: 80px;
+padding-bottom: 160px;
+}
+.servispart{
+	width:270px;
+float: left;
+text-align: center;
+}
+.servispart h3{
+	font-size: 18px.
+	font-weight:bold;
+	color:rgb(34,34,34);
+	text-transform: uppercase;
+	text-align: center;
+	margin-bottom: 20px;
+
+}
+.servispart p{
+	font-size: 14px.
+	color:rgb(119,119,119);
+	line-height: 1.65em;
+	}
+.servispart:last-child{
+	float:right;}
+
+.servispart:nth-child(2){
+	margin:0;
+	margin-left: 60px;
+}
+#serv{
+	padding-bottom: 120px;
+}
+#portfolio{
+	background-color:rgb(247,247,247);
+	text-align: center;
+	padding-bottom:120px;
+}
+.portfolioheading{
+	margin-bottom: 75px;
+
+
+}
+.portfolioheading h2{
+	font-size: 40px.
+	font-weight:bold;
+	color:rgb(34,34,34);
+	text-transform: uppercase;
+}
+.portfolioheading p{
+	font-size: 16px.
+	color:rgb(119,119,1191);
+
+}
+
+.images img{
+	float: left;
+
+}
+.img3 img{
+	float: right;
+}
+
+.img2 img{
+	margin-left: 32px;
+}
+.about{
+
+}
+.heading_about{
+		text-align: center;
+
+
+}
+.heading_about h2 {
+	font-weight: bold;
+	font-size: 40px;
+	text-transform: uppercase;
+	text-align: center;
+
+}
+.heading_about p{
+	font-size: 16px;
+	margin-bottom: 84px;
+	text-align: center;
+}
+
+  
+.about h2{
+	font-size: 18px.
+	font-weight:bold;
+	text-transform: uppercase;
+	text-align: center;
+}
+.about p{
+	font-size: 14px;
+
+line-height: 1.65em;
+}
+
+
+
+.subaubout{
+	padding-bottom: 50px;
+}
